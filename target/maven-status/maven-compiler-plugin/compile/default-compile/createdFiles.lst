@@ -1,2 +1,4 @@
 com\learnToDeploy\DeployLearn\controller\Sample.class
+com\learnToDeploy\DeployLearn\model\Users.class
+com\learnToDeploy\DeployLearn\repository\UsersRepository.class
 com\learnToDeploy\DeployLearn\DeployLearnApplication.class
